@@ -1,0 +1,1 @@
+Esta actividad fue muy importante, ya que me ayudo a descubrir como funciona un navigation drawer, y tabmien saber que tengo que cambiar para mis siguientes actividades, por ejemplo saber cambiar los nombres de cada pantalla es algo que no pude cambiar en mi antiguo programa para hacer aplicaciones en android que era xamarin
