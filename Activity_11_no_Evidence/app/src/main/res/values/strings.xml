@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Activity_11_no_Evidence</string>
+
+    <string name="activityName">activityName</string>
+    <string name="workTime">workTime</string>
+    <string name="restTime">restTime</string>
+    <string name="longRestTime">longRestTime</string>
+    <string name="menu_nuevo">Nuevo registro</string>
+    <string name="create">add</string>
+    <string name="update">update</string>
+</resources>

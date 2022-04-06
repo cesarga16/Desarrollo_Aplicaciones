@@ -43,7 +43,7 @@
                             android:text="Work" />
 
                         <EditText
-                            android:id="@+id/editTextNumberSigned4"
+                            android:id="@+id/WorkTime"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_weight="1"

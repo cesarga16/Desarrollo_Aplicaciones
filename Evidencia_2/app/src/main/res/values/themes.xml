@@ -20,4 +20,13 @@
         <item name="itemIconTint">@color/green_light</item>
         <item name="itemTextColor">@color/light2</item>
     </style>
+
+    <style name="Theme.Evidencia_2.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.Evidencia_2.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.Evidencia_2.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 </resources>
